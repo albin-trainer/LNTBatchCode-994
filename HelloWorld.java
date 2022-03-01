@@ -8,6 +8,7 @@ public class HelloWorld{
    String s="Hello";
 
 	 int b=10;
+	 String s1="Java";
 
 }
 }
