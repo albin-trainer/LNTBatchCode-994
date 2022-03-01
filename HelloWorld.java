@@ -4,6 +4,10 @@ public class HelloWorld{
 	 System.out.println("Hello world from Albin");
     int a=10;
 	 System.out.println(a);
+
    String s="Hello";
+
+	 int b=10;
+
 }
 }
